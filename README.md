@@ -5,7 +5,7 @@ This repository contains **Dockerfile** of [Mumble](http://wiki.mumble.info/wiki
 
 ## Base Docker Image
 
-- [ubuntu](https://registry.hub.docker.com/_/ubuntu/)
+- [alpine](https://hub.docker.com/_/alpine)
 
 ## Installation
 
